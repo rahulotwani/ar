@@ -1,1 +1,1 @@
-# Sample AR for Orientation
+# AR Based GLUG Logo
